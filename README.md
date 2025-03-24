@@ -1,5 +1,5 @@
 # OneDrive-Killer
-My friends computer kept getting clogged up by OneDrive taking up over 2GB of ram. Because I always overcomplicate things, I wrote a program to ensure its always closed.
+My friends computer kept getting clogged up by OneDrive taking up over 2GB of ram. Because I always overcomplicate things, I wrote a program to ensure its always closed. Why is there two programs? Because I overcomplicate things. If something goes wrong with one of them, it closes and re-opens the other. This way it doesn't matter if something goes wrong with one, as it will fix itself needing no user input.
 
 If you want to use this, make sure it opens during startup.
 
